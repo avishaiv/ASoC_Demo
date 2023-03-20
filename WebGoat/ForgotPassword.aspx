@@ -4,8 +4,5 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="BodyContentPlaceholder" runat="server">
 <h1 class="title-regular-4 clearfix">Forgot Password</h1>
-
-
-
 </asp:Content>
  
